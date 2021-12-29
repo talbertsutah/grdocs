@@ -1,0 +1,12 @@
+site_name: GradRecruit Help
+site_url: https://www.math.utah.edu/gradrecruit/sysdoc/
+
+nav:
+    - 'GradRecruit Home': 'https://www.math.utah.edu/gradrecruit/'
+    - 'Managing Data': 
+        - 'Download New': 'data-management/download.md'
+        - 'Upload': 'data-management/upload.md'
+        - 'Process New': 'data-management/process_new.md'
+        - 'Updating Letters': 'data-management/updates.md'
+        - 'Manual Updates': 'data-management/manual_updates.md'
+    
